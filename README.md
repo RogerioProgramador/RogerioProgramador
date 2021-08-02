@@ -1,5 +1,6 @@
 [![Poster](img/Technology1.png)](https://www.linkedin.com/in/RogerioProgramador/)
 
+ [![RogerioProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioProgramador&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=dracula)](https://github.com/RogerioProgramador?tab=repositories)
 [![RogerioProgramador's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioProgramador&hide=html,handlebars,Starlark,%20php,css,scss,javascript,Jupyter%20Notebook&langs_count=15&layout=compact&theme=dracula&hide_border=false)](https://github.com/RogerioProgramador?tab=repositories)
 
 <!--
