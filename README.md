@@ -1,4 +1,4 @@
-[![Poster](img/Technology.png)](https://www.linkedin.com/in/RogerioProgramador/)
+[![Poster](img/Technology1.png)](https://www.linkedin.com/in/RogerioProgramador/)
 
 # Hi there 👋 
 
