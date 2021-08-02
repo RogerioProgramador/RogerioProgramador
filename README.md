@@ -1,6 +1,7 @@
 # Hi there 👋
 
-[![RogerioProgramador's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioProgramador&hide=html,handlebars,Starlark,%20php,css,scss,javascript,Jupyter%20Notebook&langs_count=15&layout=compact&theme=dracula&hide_border=true)](https://github.com/RogerioProgramador?tab=repositories)
+
+[![RogerioProgramador's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioProgramador&hide=html,handlebars,Starlark,%20php,css,scss,javascript,Jupyter%20Notebook&langs_count=15&layout=compact&theme=dark&hide_border=true)](https://github.com/RogerioProgramador?tab=repositories)
 <!--
 **RogerioProgramador/RogerioProgramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
