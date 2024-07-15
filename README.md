@@ -1,5 +1,11 @@
 [![Poster](img/Technology.png)](https://linktr.ee/RogerioSiqueira)
 
+I'm Rogerio Siqueira, a Backend Developer specializing in cloud environments.
+
+- 🔭 I’m currently working on enhancing communication between on-premises servers and cloud environments in a large-scale international project.
+- 🎓 I graduated from [42 São Paulo](https://www.42sp.org.br/).
+- 📫 How to reach me: [Email](mailto:rogeriosiqueiralima@gmail.com), [LinkedIn](https://www.linkedin.com/in/rogerioslf/). 
+
 | [![RogerioProgramador's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerioProgramador&count_private=true&show_icons=true&hide=issues&hide_border=false&theme=algolia)](https://github.com/RogerioProgramador?tab=repositories) |  [![RogerioProgramador's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioProgramador&hide=html,handlebars,Starlark,%20php,Jupyter%20Notebook&langs_count=15&layout=compact&theme=algolia&hide_border=false)](https://github.com/RogerioProgramador?tab=repositories) |
 |:-:|:-:|
 
